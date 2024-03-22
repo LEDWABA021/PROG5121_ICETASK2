@@ -1,0 +1,41 @@
+- **Project Name:** PROG5121
+- **Task:** ICE Task 2
+- **Due Date:** 22/3/2024
+- **Objective:** Develop a Java program to manage bank accounts.
+
+### Functional Requirements:
+1. Create a class named "Bank" with the following functionalities:
+   - Maintain a collection of accounts.
+   - Methods to add and remove accounts.
+   - Methods to deposit and withdraw money from accounts.
+
+2. Create a class named "Account" with the following attributes:
+   - Name of the account holder.
+   - Account number.
+   - Current balance.
+
+3. Implement methods in the Account class for:
+   - Retrieving account holder's name, account number, and balance.
+   - Depositing money into the account.
+   - Withdrawing money from the account.
+
+4. Implement methods in the Bank class for:
+   - Adding an account to the bank's collection.
+   - Removing an account from the bank's collection.
+   - Depositing money into a specific account.
+   - Withdrawing money from a specific account.
+   - Retrieving the list of accounts in the bank.
+
+5. Create an Application class to test the functionality of Bank and Account classes.
+   - Create instances of Bank and Account classes.
+   - Add accounts to the bank.
+   - Perform deposit and withdrawal transactions on accounts.
+   - Display account information before and after transactions.
+
+### Documentation Requirements:
+- Add comments to the Bank.java and Application.java files to explain the functionality of methods and test scenarios.
+- Ensure clarity and completeness in documenting the code to facilitate understanding and testing.
+
+Following these requirements will ensure the successful completion of the project as per the specified guidelines.
+
+//This Template was created using prompt: https://chat.openai.com/c/4181bd85-a5d3-4cea-8dbe-fcebf173a9d7
